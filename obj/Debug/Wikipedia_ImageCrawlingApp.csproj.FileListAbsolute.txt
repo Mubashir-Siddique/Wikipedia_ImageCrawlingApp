@@ -1,0 +1,10 @@
+D:\Work Space\CellshopperScrapingTask\CellshopperScrapingTask\Wikipedia_ImageCrawlingApp\obj\Debug\Wikipedia_ImageCrawlingApp.csprojAssemblyReference.cache
+D:\Work Space\CellshopperScrapingTask\CellshopperScrapingTask\Wikipedia_ImageCrawlingApp\bin\Debug\Wikipedia_ImageCrawlingApp.exe.config
+D:\Work Space\CellshopperScrapingTask\CellshopperScrapingTask\Wikipedia_ImageCrawlingApp\bin\Debug\Wikipedia_ImageCrawlingApp.exe
+D:\Work Space\CellshopperScrapingTask\CellshopperScrapingTask\Wikipedia_ImageCrawlingApp\bin\Debug\Wikipedia_ImageCrawlingApp.pdb
+D:\Work Space\CellshopperScrapingTask\CellshopperScrapingTask\Wikipedia_ImageCrawlingApp\obj\Debug\Wikipedia_ImageCrawlingApp.exe
+D:\Work Space\CellshopperScrapingTask\CellshopperScrapingTask\Wikipedia_ImageCrawlingApp\obj\Debug\Wikipedia_ImageCrawlingApp.pdb
+D:\Work Space\CellshopperScrapingTask\CellshopperScrapingTask\Wikipedia_ImageCrawlingApp\bin\Debug\HtmlAgilityPack.dll
+D:\Work Space\CellshopperScrapingTask\CellshopperScrapingTask\Wikipedia_ImageCrawlingApp\bin\Debug\HtmlAgilityPack.pdb
+D:\Work Space\CellshopperScrapingTask\CellshopperScrapingTask\Wikipedia_ImageCrawlingApp\bin\Debug\HtmlAgilityPack.xml
+D:\Work Space\CellshopperScrapingTask\CellshopperScrapingTask\Wikipedia_ImageCrawlingApp\obj\Debug\Wikipedia_ImageCrawlingApp.csproj.CopyComplete
